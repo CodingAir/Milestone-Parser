@@ -1,0 +1,5 @@
+{
+  "repo": "https://api.github.com/repos/{owner}/{repo}/",
+  "token": "{your token for private repos}",
+  "issue_repo": "https://api.github.com/repos/{owner}/{repo}/"
+}

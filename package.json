@@ -1,0 +1,15 @@
+{
+  "name": "milestone-parser",
+  "version": "1.0.0",
+  "description": "A parser that reads all closed issues of a milestone to generate a changelog",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CodingAir",
+  "license": "MIT",
+  "devDependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
