@@ -1,5 +1,8 @@
 {
   "repo": "https://api.github.com/repos/{owner}/{repo}/",
-  "token": "{your token for private repos}",
-  "issue_repo": "https://api.github.com/repos/{owner}/{repo}/"
+  "repo_token": "{token}",
+  "issue_repo": "https://api.github.com/repos/{owner}/{repo}/",
+  "issue_repo_token": "{token}",
+  "last_version_tag": "v1.0.0",
+  "commit_title_key": "{commit-indicator}"
 }
